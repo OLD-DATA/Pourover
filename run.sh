@@ -7,7 +7,7 @@ mkdir lib
 mkdir src
 mkdir test
 mkdir tools
-echo "every floder needed"
+echo "every folder needed"
 sleep 2
 cd deps
 git clone https://github.com/nodejs/llhttp.git
