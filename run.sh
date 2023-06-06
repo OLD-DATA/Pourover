@@ -1,6 +1,6 @@
 echo "let there be Affogatto"
-cd ..
 sleep 2
+sudo rm -rf .git
 mkdir Affogato.js
 cd Affogato.js
 mkdir benchmark
