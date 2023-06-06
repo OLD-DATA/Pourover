@@ -1,5 +1,8 @@
 echo "let there be Affogatto"
+cd ..
 sleep 2
+mkdir Affogato.js
+cd Affogato.js
 mkdir benchmark
 mkdir deps
 mkdir docs
